@@ -3,6 +3,7 @@ Saya Klara Ollivviera Augustine Gunawan dengan NIM 2306205 mengerjakan soal Tuga
 
 # Desain Program
 Program ini merupakan implementasi dari pola Model-View-ViewModel (MVVM), yang digunakan untuk mengelola data customer, shipping method, dan orders pada sistem e-commerce. Program ini memisahkan logika aplikasi, tampilan pengguna, dan data yang disimpan dalam basis data sehingga memudahkan dalam pemeliharaan dan pengelolaan.
+<img width="564" alt="Screenshot 2025-05-23 at 23 10 32" src="https://github.com/user-attachments/assets/d4ebbb10-a16a-4646-9140-5a8a9aec7ae6" />
 
 ## Fitur Utama:
 ### 1. Manajemen Customer:
